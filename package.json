@@ -12,15 +12,15 @@
     },
     "license": "GPL-3.0",
     "devDependencies": {
-        "css-loader": "^3.4",
-        "express": "^4.17.1",
-        "mini-css-extract-plugin": "^0.9",
-        "node-sass": "^4.13",
-        "sass-loader": "^8.0.0",
-        "watchpack": "^1.6.0",
-        "webpack": "^5.0.0-beta.11",
-        "webpack-cli": "^3.3.10",
-        "webpack-dev-middleware": "^3.7.2",
+        "css-loader": "^4.2",
+        "express": "^5.0.0-alpha.8",
+        "mini-css-extract-plugin": "^0.11",
+        "node-sass": "^4.14",
+        "sass-loader": "^10.0.1",
+        "watchpack": "^2.0.0-beta.15",
+        "webpack": "^5.0.0-beta.28",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-middleware": "^4.0.0-rc.3",
         "webpack-hot-middleware": "^2.25.0"
     }
 }
